@@ -7,7 +7,7 @@ My name is Pooja Thakre and I am a self-taught developer with about 2 years of e
 
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pooja=Thakre&theme=blue-green">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pooja-Thakre&theme=blue-green">
 </div>
 <br>
 
@@ -27,7 +27,7 @@ My name is Pooja Thakre and I am a self-taught developer with about 2 years of e
 
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pooja=Thakre&theme=blue-green">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pooja-Thakre&theme=blue-green">
 </div>
 <br>
 
